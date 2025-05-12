@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cemgdkidi075b"
+path="res://.godot/imported/SmgAmmo_Box.obj-cea831e4fd2fadd33ac0a1b187194046.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SmgAmmo_Box.obj-cea831e4fd2fadd33ac0a1b187194046.mesh"]
+
+source_file="res://addons/Spillutvikling/OBJ/SmgAmmo_Box.obj"
+dest_files=["res://.godot/imported/SmgAmmo_Box.obj-cea831e4fd2fadd33ac0a1b187194046.mesh", "res://.godot/imported/SmgAmmo_Box.obj-cea831e4fd2fadd33ac0a1b187194046.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

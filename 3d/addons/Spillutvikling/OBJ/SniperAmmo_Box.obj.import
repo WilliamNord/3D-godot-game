@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byrno64wxnlxq"
+path="res://.godot/imported/SniperAmmo_Box.obj-8f2f1ea4186b77bedbefe87b51607f6d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SniperAmmo_Box.obj-8f2f1ea4186b77bedbefe87b51607f6d.mesh"]
+
+source_file="res://addons/Spillutvikling/OBJ/SniperAmmo_Box.obj"
+dest_files=["res://.godot/imported/SniperAmmo_Box.obj-8f2f1ea4186b77bedbefe87b51607f6d.mesh", "res://.godot/imported/SniperAmmo_Box.obj-8f2f1ea4186b77bedbefe87b51607f6d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

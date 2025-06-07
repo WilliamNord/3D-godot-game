@@ -10,5 +10,4 @@ that is the most of what u need to know :D
 
 (not finnished)
 
-GL
-Dont have fun
+GLHF
